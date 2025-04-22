@@ -27,8 +27,8 @@
 1. **Clona el repositorio**
 
    ```bash
-   git clone https://github.com/TioDunk/React-Projects-Collection.git
-   cd Invoice App
+   git clone https://github.com/DUNK-DEV/Invoice-App.git
+   cd Invoice-App
    ```
 
 2. **Instala las dependencias**
